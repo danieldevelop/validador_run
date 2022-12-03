@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+LYlFuK3FXgeRsKooNifOiMRoTshBfpOIbzfSaqbAxwUnvIbgafBhkqr0dRdPRpNkGXuyjGMUou+RE2ZYkyr9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ites_\\OneDrive\\workspace\\projects_visual_studio\\validador_run\\validador_run\\validador_run.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ites_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
